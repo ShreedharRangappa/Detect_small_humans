@@ -1,0 +1,10 @@
+
+# Default ignored files
+.txt
+.jpg
+.idea
+.png
+
+# Folders
+weights
+result
